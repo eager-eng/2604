@@ -1,0 +1,10 @@
+开始时间：2026-08-05 15:04:24
+结束时间：2026-08-05 15:04:31
+Python：C:\Users\zhaozhiyi\AppData\Local\Programs\Python\Python314\python.exe (3.14.3)
+输入数据：C:\Users\zhaozhiyi\Desktop\2604\code\outputs\数据预处理结果\建模就绪数据.csv
+数据规模：10075 行，训练/验证/测试=7195/1440/1440
+最优滞后：3 min
+最终模型收敛：True，迭代次数：62
+测试集平均负对数似然：0.503931
+测试集未删失MAE：0.254942 mg/Nm³
+峰值阈值：0.381204 mg/Nm³，峰值数量：465

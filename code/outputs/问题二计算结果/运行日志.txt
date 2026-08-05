@@ -1,0 +1,8 @@
+开始时间：2026-08-05 19:41:53
+结束时间：2026-08-05 19:42:03
+Python：C:\Users\zhaozhiyi\AppData\Local\Programs\Python\Python314\python.exe (3.14.3)
+输入数据：C:\Users\zhaozhiyi\Desktop\2604\code\outputs\数据预处理结果\建模就绪数据.csv
+最优聚类数：6
+最优岭参数：10.0
+左删失Tobit收敛：True，sigma=0.143549
+满足10 mg/Nm3工况数：6/6
