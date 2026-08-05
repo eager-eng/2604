@@ -1,0 +1,7 @@
+2026-08-05 14:49:04,210 | INFO | 复用已有兼容副本：C:\Users\zhaozhiyi\Desktop\2604\code\outputs\数据预处理结果\原始数据兼容副本.xlsx
+2026-08-05 14:49:04,210 | INFO | 读取兼容副本并检查原始数据
+2026-08-05 14:49:05,206 | INFO | 原始数据 10080 行；出口浓度缺失 50 条；50 mg/Nm³占有效值 54.75%
+2026-08-05 14:49:12,062 | INFO | 预处理完成：完整时序 10080 行，建模就绪 10075 行
+2026-08-05 14:49:12,063 | INFO | 数据结果：C:\Users\zhaozhiyi\Desktop\2604\code\outputs\数据预处理结果
+2026-08-05 14:49:12,063 | INFO | 图表结果：C:\Users\zhaozhiyi\Desktop\2604\figures\数据预处理结果
+2026-08-05 14:49:12,063 | INFO | 结果报告：C:\Users\zhaozhiyi\Desktop\2604\reports\数据预处理结果报告.md
