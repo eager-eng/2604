@@ -1,0 +1,6 @@
+开始时间：2026-08-05 22:28:28
+结束时间：2026-08-05 22:28:34
+Python：C:\Users\zhaozhiyi\AppData\Local\Programs\Python\Python314\python.exe (3.14.3)
+对比工况：工况4、工况5
+双向扰动组数：16，候选扰动点数：32
+排放约束内的节能候选数：2
